@@ -1,6 +1,6 @@
 # YandexLyceum
 def my_superfunction():
-    print('Some print')
+    print('Hello python')
 
 
 def main():
